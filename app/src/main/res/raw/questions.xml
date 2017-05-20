@@ -1,0 +1,254 @@
+<exam>
+    <email>ismith1024@gmail.com</email>
+    <exam_questions>
+        <question>
+            <question_ID>1</question_ID>
+            <question_text>What language paradigm best describes Java?</question_text>
+            <answer>
+                <answer_tag>A</answer_tag>
+                <answer_text>Imperative</answer_text>
+            </answer>
+            <answer>
+                <answer_tag>B</answer_tag>
+                <answer_text>Logical</answer_text>
+            </answer>
+            <answer>
+                <answer_tag>C</answer_tag>
+                <answer_text>Constraint</answer_text>
+            </answer>
+            <answer>
+                <answer_tag>D</answer_tag>
+                <answer_text>Functional</answer_text>
+            </answer>
+            <answer>
+                <answer_tag>E</answer_tag>
+                <answer_text>Object-oriented</answer_text>
+            </answer>
+        </question>
+
+        <question>
+            <question_ID>2</question_ID>
+            <question_text>What line of code is nost likely to be found in a Java application?</question_text>
+            <answer>
+                <answer_tag>A</answer_tag>
+                <answer_text>#include<![CDATA[<]]>iostream<![CDATA[>]]></answer_text>
+            </answer>
+            <answer>
+                <answer_tag>B</answer_tag>
+                <answer_text><![CDATA[<]]>!DOCTYPE html<![CDATA[>]]></answer_text>
+            </answer>
+            <answer>
+                <answer_tag>C</answer_tag>
+                <answer_text>int main (int argc, char *argv[], char *envp[])</answer_text>
+            </answer>
+            <answer>
+                <answer_tag>D</answer_tag>
+                <answer_text>public static void main(String[] args)</answer_text>
+            </answer>
+            <answer>
+                <answer_tag>E</answer_tag>
+                <answer_text>$(#body).append("<![CDATA[<]]>p<![CDATA[>]]>Text<![CDATA[<]]>/p<![CDATA[>]]>");</answer_text>
+            </answer>
+        </question>
+
+        <question>
+            <question_ID>3</question_ID>
+            <question_text>By default, how do programs written in C++ react to null pointers?</question_text>
+            <answer>
+                <answer_tag>A</answer_tag>
+                <answer_text>Throw a NullPointerException</answer_text>
+            </answer>
+            <answer>
+                <answer_tag>B</answer_tag>
+                <answer_text>Segementation fault</answer_text>
+            </answer>
+            <answer>
+                <answer_tag>C</answer_tag>
+                <answer_text>Kernel oops</answer_text>
+            </answer>
+            <answer>
+                <answer_tag>D</answer_tag>
+                <answer_text>None, there are no pointers in C++</answer_text>
+            </answer>
+            <answer>
+                <answer_tag>E</answer_tag>
+                <answer_text>Open a dialog box and inform the user</answer_text>
+            </answer>
+        </question>
+
+        <question>
+            <question_ID>4</question_ID>
+            <question_text>Do you like COMP3007?</question_text>
+            <answer>
+                <answer_tag>A</answer_tag>
+                <answer_text>No</answer_text>
+            </answer>
+            <answer>
+                <answer_tag>B</answer_tag>
+                <answer_text>No</answer_text>
+            </answer>
+            <answer>
+                <answer_tag>C</answer_tag>
+                <answer_text>No</answer_text>
+            </answer>
+            <answer>
+                <answer_tag>D</answer_tag>
+                <answer_text>No</answer_text>
+            </answer>
+            <answer>
+                <answer_tag>E</answer_tag>
+                <answer_text>No</answer_text>
+            </answer>
+        </question>
+
+        <question>
+            <question_ID>5</question_ID>
+            <question_text>C Strings are terminated with...</question_text>
+            <answer>
+                <answer_tag>A</answer_tag>
+                <answer_text>'#'</answer_text>
+            </answer>
+            <answer>
+                <answer_tag>B</answer_tag>
+                <answer_text>An ampersand</answer_text>
+            </answer>
+            <answer>
+                <answer_tag>C</answer_tag>
+                <answer_text>Null</answer_text>
+            </answer>
+            <answer>
+                <answer_tag>D</answer_tag>
+                <answer_text>'0'</answer_text>
+            </answer>
+            <answer>
+                <answer_tag>E</answer_tag>
+                <answer_text>Nothing</answer_text>
+            </answer>
+        </question>
+
+        <question>
+            <question_ID>6</question_ID>
+            <question_text>A Swift optional variable is...</question_text>
+            <answer>
+                <answer_tag>A</answer_tag>
+                <answer_text>A variable which may be true or false</answer_text>
+            </answer>
+            <answer>
+                <answer_tag>B</answer_tag>
+                <answer_text>A container holding a varaible which may or may not be null</answer_text>
+            </answer>
+            <answer>
+                <answer_tag>C</answer_tag>
+                <answer_text>Up to the user to set</answer_text>
+            </answer>
+            <answer>
+                <answer_tag>D</answer_tag>
+                <answer_text>Defined at the time the code is compiled</answer_text>
+            </answer>
+            <answer>
+                <answer_tag>E</answer_tag>
+                <answer_text>A reference which may or may not indicate a valid object</answer_text>
+            </answer>
+        </question>
+
+        <question>
+            <question_ID>7</question_ID>
+            <question_text>UNIX files are terminated with</question_text>
+            <answer>
+                <answer_tag>A</answer_tag>
+                <answer_text>'#'</answer_text>
+            </answer>
+            <answer>
+                <answer_tag>B</answer_tag>
+                <answer_text>An ampersand</answer_text>
+            </answer>
+            <answer>
+                <answer_tag>C</answer_tag>
+                <answer_text>Null</answer_text>
+            </answer>
+            <answer>
+                <answer_tag>D</answer_tag>
+                <answer_text>'0'</answer_text>
+            </answer>
+            <answer>
+                <answer_tag>E</answer_tag>
+                <answer_text>Nothing</answer_text>
+            </answer>
+        </question>
+
+        <question>
+            <question_ID>8</question_ID>
+            <question_text>Can a C string contain emojis?</question_text>
+            <answer>
+                <answer_tag>A</answer_tag>
+                <answer_text>No, C only supports ASCII characters</answer_text>
+            </answer>
+            <answer>
+                <answer_tag>B</answer_tag>
+                <answer_text>Yes, but they may not display correctly</answer_text>
+            </answer>
+            <answer>
+                <answer_tag>C</answer_tag>
+                <answer_text>Yes, but you must add the line #include "emojis.h"</answer_text>
+            </answer>
+            <answer>
+                <answer_tag>D</answer_tag>
+                <answer_text>Only if your compiler supports unicode</answer_text>
+            </answer>
+            <answer>
+                <answer_tag>E</answer_tag>
+                <answer_text>😢</answer_text>
+            </answer>
+        </question>
+
+        <question>
+            <question_ID>9</question_ID>
+            <question_text>ASCII 00100100 corresponds to...</question_text>
+            <answer>
+                <answer_tag>A</answer_tag>
+                <answer_text>'a'</answer_text>
+            </answer>
+            <answer>
+                <answer_tag>B</answer_tag>
+                <answer_text>'A'</answer_text>
+            </answer>
+            <answer>
+                <answer_tag>C</answer_tag>
+                <answer_text>A dollar sign</answer_text>
+            </answer>
+            <answer>
+                <answer_tag>D</answer_tag>
+                <answer_text>'^'</answer_text>
+            </answer>
+            <answer>
+                <answer_tag>E</answer_tag>
+                <answer_text>9</answer_text>
+            </answer>
+        </question>
+
+        <question>
+            <question_ID>10</question_ID>
+            <question_text>In a Javascript web app, how do you make sure that data is downloaded before attempting to insert it into the DOM?</question_text>
+            <answer>
+                <answer_tag>A</answer_tag>
+                <answer_text>Insert the data as part of a callback function</answer_text>
+            </answer>
+            <answer>
+                <answer_tag>B</answer_tag>
+                <answer_text>Use separate threads to download and insert data</answer_text>
+            </answer>
+            <answer>
+                <answer_tag>C</answer_tag>
+                <answer_text>Use JQuery's Append() method</answer_text>
+            </answer>
+            <answer>
+                <answer_tag>D</answer_tag>
+                <answer_text>Download the data in a seprate process</answer_text>
+            </answer>
+            <answer>
+                <answer_tag>E</answer_tag>
+                <answer_text>This is not aproblem, the PHP server script will take care of it for you.</answer_text>
+            </answer>
+        </question>
+    </exam_questions>
+</exam>
